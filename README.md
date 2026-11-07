@@ -58,15 +58,25 @@ El tablero cuenta con una interfaz intuitiva con navegación libre y capacidades
 3.  **Análisis de Géneros:** Segmentaciones cruzadas e histogramas apilados para contrastar el comportamiento de lanzamientos frente a las valoraciones recibidas.
 4.  **Módulo de Valoraciones (Usuarios vs. Metacritic):** Vista enfocada al ranking detallado de desarrolladoras y títulos específicos.
 
-<img width="558" height="308" alt="image" src="https://github.com/user-attachments/assets/5903f16c-aa4c-4e53-b114-56d5740c755e" />
+<p align="center">
+  <img width="558" height="308" alt="Ranking Videojuegos Dashboard" src="https://github.com/user-attachments/assets/5903f16c-aa4c-4e53-b114-56d5740c755e" />
+</p>
 
-<img width="566" height="322" alt="image" src="https://github.com/user-attachments/assets/ef023691-0f02-4fdb-a907-212d673602ac" />
+<p align="center">
+  <img width="558" height="308" alt="Ranking Videojuegos Dashboard" src="https://github.com/user-attachments/assets/ef023691-0f02-4fdb-a907-212d673602ac" />
+</p>
 
-<img width="656" height="366" alt="image" src="https://github.com/user-attachments/assets/edb950e3-ece0-44b1-b2f5-56c50639e30b" />
+<p align="center">
+  <img width="558" height="308" alt="Ranking Videojuegos Dashboard" src="https://github.com/user-attachments/assets/edb950e3-ece0-44b1-b2f5-56c50639e30b" />
+</p>
 
-<img width="661" height="366" alt="image" src="https://github.com/user-attachments/assets/b6aebaba-dbbc-41aa-a3c2-4dd32f80733e" />
+<p align="center">
+  <img width="558" height="308" alt="Ranking Videojuegos Dashboard" src="https://github.com/user-attachments/assets/b6aebaba-dbbc-41aa-a3c2-4dd32f80733e" />
+</p>
 
-<img width="654" height="369" alt="image" src="https://github.com/user-attachments/assets/d82efc04-2d3e-40f3-8107-bc804b228683" />
+<p align="center">
+  <img width="558" height="308" alt="Ranking Videojuegos Dashboard" src="https://github.com/user-attachments/assets/d82efc04-2d3e-40f3-8107-bc804b228683" />
+</p>
 
 ---
 
