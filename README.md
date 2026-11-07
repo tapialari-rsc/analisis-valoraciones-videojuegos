@@ -22,7 +22,10 @@ A partir de los archivos planos de origen, se ejecutó un proceso de limpieza, t
 *   **Tablas Dimensionales (Dim Tables):** `DEVELOPER`, `GÉNERO`, `PLATAFORMA`, `TIPO_PLATAFORMA` y `RATING`.
 *   **Tabla de Tiempo:** Se generó una tabla `CALENDARIO` dinámica mediante DAX para permitir análisis temporales (apertura por Año, Trimestre, Mes y Día).
 
-> 🌐 *[AQUÍ PUEDES INSERTAR UNA CAPTURA DEL DIAGRAMA ENTIDAD-RELACIÓN QUE TIENES EN LA PÁGINA 5 O 8 DE TU DOCUMENTO]*
+<img width="1148" height="928" alt="image" src="https://github.com/user-attachments/assets/c884231a-7049-42ef-8a15-e1acbce8a8cf" />
+
+<img width="1311" height="800" alt="image" src="https://github.com/user-attachments/assets/79f86f4e-9152-4928-bedb-74f430d5f228" />
+
 
 ---
 
@@ -55,7 +58,15 @@ El tablero cuenta con una interfaz intuitiva con navegación libre y capacidades
 3.  **Análisis de Géneros:** Segmentaciones cruzadas e histogramas apilados para contrastar el comportamiento de lanzamientos frente a las valoraciones recibidas.
 4.  **Módulo de Valoraciones (Usuarios vs. Metacritic):** Vista enfocada al ranking detallado de desarrolladoras y títulos específicos.
 
-> 📸 *[AQUÍ PEGA CAPTURAS DE PANTALLA EN ALTA CALIDAD DE LAS SOLAPAS DE TU DASHBOARD (PÁGINAS 11 Y 12 DE TU INFORME)]*
+<img width="558" height="308" alt="image" src="https://github.com/user-attachments/assets/5903f16c-aa4c-4e53-b114-56d5740c755e" />
+
+<img width="566" height="322" alt="image" src="https://github.com/user-attachments/assets/ef023691-0f02-4fdb-a907-212d673602ac" />
+
+<img width="656" height="366" alt="image" src="https://github.com/user-attachments/assets/edb950e3-ece0-44b1-b2f5-56c50639e30b" />
+
+<img width="661" height="366" alt="image" src="https://github.com/user-attachments/assets/b6aebaba-dbbc-41aa-a3c2-4dd32f80733e" />
+
+<img width="654" height="369" alt="image" src="https://github.com/user-attachments/assets/d82efc04-2d3e-40f3-8107-bc804b228683" />
 
 ---
 
